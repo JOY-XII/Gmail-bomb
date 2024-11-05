@@ -28,5 +28,6 @@ git clone --depth=1 https://github.com/JOY-XII/Gmail-bomb.git
 cd Gmail-bomb
 python Mail-Spam.py
 ```
-## Support us by giving stars.
+## Tool outlook 
+[Tool](image/Picsart_24-11-06_02-16-15-532.jpg)
    

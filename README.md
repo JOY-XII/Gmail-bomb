@@ -29,5 +29,5 @@ cd Gmail-bomb
 python Mail-Spam.py
 ```
 ## Tool outlook 
-[Tool](image/Picsart_24-11-06_02-16-15-532.jpg)
+[Tool](Picsart_24-11-06_02-16-15-532.jpg)
    
